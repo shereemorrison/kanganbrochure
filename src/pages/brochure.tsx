@@ -57,7 +57,7 @@ export default function Brochure() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.8 }}
           >
-            <MainBrochure />
+          <MainBrochure />
           </motion.div>
         )}
       </AnimatePresence>
